@@ -1,0 +1,6 @@
+This document is about the simple code in python for using basic call on API like post get and put
+
+what is used in the document 
+
+I have used "requests" that is an http library and weburl "https://httpbin.org/" is used to test basic functionality in api. 
+
